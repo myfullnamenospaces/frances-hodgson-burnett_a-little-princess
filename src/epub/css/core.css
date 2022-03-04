@@ -116,6 +116,19 @@ section > header + *{
 	margin-top: 3em;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+#chapter-1 blockquote{
+	text-align: center;
+}
+
 a[epub|type~="noteref"]{
 	font-size: .75em;
 	font-style: normal !important;
